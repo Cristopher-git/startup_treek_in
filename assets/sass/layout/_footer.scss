@@ -1,0 +1,27 @@
+footer {
+        background-color: #221D23;
+        // padding: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+            ul { 
+                
+                list-style-type: none;
+                padding: 0px;
+               
+
+                        li {
+                            display: inline-block;
+                            padding: 10px;
+                            color: white;
+
+                    }
+                        
+            }
+
+                        p {
+                        padding-bottom: 10px;
+                        color: white;
+     }
+}

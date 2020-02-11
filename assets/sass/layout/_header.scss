@@ -1,0 +1,21 @@
+header {
+        width: 100%;
+        height: 400px;
+        background-image: url(../img/bg-hero.svg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center; 
+
+        .section__header {
+            padding: 100px;
+
+                h1 {
+                    font-family: 'Raleway', sans-serif;
+            }
+        }
+         .header.img {
+             background-image: url(../img/bg-hero.svg);
+
+    }
+
+}
